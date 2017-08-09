@@ -1,9 +1,9 @@
 {
     "name": "vscode-generate-getter-setter",
-    "displayName": "TypeScript Toolbox",
+    "displayName": "TypeScript Toolbox (TEMP Replacement)",
     "description": "Add and Optimize Imports, Generate Getters / Setters and Constructors",
     "version": "0.4.1",
-    "publisher": "DSKWRK",
+    "publisher": "dball-adashi",
     "icon": "icon.png",
     "galleryBanner": {
         "color": "#d4d3d3",
